@@ -1,3 +1,5 @@
+‘’‘手写字识别’‘’
+
 from keras.datasets import mnist
 from keras.models import Sequential
 from keras.layers.core import Dense,Activation
