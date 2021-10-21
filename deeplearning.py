@@ -1,4 +1,4 @@
-‘’‘手写字识别’‘’
+"handwriting recognition"
 
 from keras.datasets import mnist
 from keras.models import Sequential
